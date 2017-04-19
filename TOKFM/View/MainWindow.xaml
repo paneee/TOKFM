@@ -56,7 +56,7 @@
                         <Slider Style="{StaticResource  Horizontal_Slider}"  Grid.Row="4"  Grid.ColumnSpan="11" Maximum="100" Minimum="0" Value="{Binding StreamPlayer.SliderPosition, Mode=TwoWay}" VerticalAlignment="Center" Margin="10,1,10,1"/>
 
 
-                        <TextBlock Grid.Column="8" Grid.Row="2"  Grid.RowSpan="2" Grid.ColumnSpan="3" FontSize="32" FontWeight="Bold" Foreground="LightGreen" TextAlignment="Right" VerticalAlignment="Center" Margin="-10,0,10,0" Padding="0" Text="{Binding StreamPlayer.ActualTime, Converter={StaticResource ATimeConverter}}" Height="46.4" />
+                        <TextBlock Grid.Column="8" Grid.Row="2"  Grid.RowSpan="2" Grid.ColumnSpan="3" FontSize="30" FontWeight="Bold" Foreground="LightGreen" TextAlignment="Right" VerticalAlignment="Center" Margin="-10,0,10,0" Padding="0" Text="{Binding StreamPlayer.ActualTime, Converter={StaticResource ATimeConverter}}" Height="46.4" />
 
                         <Button Content="{Binding  DirectionAutoPlay, Converter={StaticResource AutoPlayConverter} }" Grid.Row="2" Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="2" BorderBrush="SlateGray" BorderThickness="1" Command="{Binding DirectionCommand}" FontSize="16" Foreground="LightGreen" Height="4" Width="60" Padding="1" />
 

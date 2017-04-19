@@ -34,15 +34,14 @@ namespace TOKFM.ViewModel
             StreamPlayer.FinishStreamEvent += FinishStream;
 
             ListItemsRss.GetFromXML(path);
-             ListItemsRssTemp.GetFromRSS("http://audycje.tokfm.pl/rss/a7c6a5012a556b");
+            ListItemsRssTemp.GetFromRSS("http://audycje.tokfm.pl/rss/a7c6a5012a556b");
 
             if (ListItemsRss.Items.Count > 0)
             {
                 selectedItem = ListItemsRss.Items[0];
-                StreamPlayer.ActualTime = "00:00";
             }
 
-            volume = 0.3f;
+            volume = 0.03f;
         }
 
 
@@ -226,7 +225,5 @@ namespace TOKFM.ViewModel
             }
         }
         #endregion
-
-       
     }
 }
