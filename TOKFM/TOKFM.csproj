@@ -126,6 +126,7 @@
     <Compile Include="AllOther\Converters\CapitalLetterConverter.cs" />
     <Compile Include="AllOther\Converters\FloatToProcentConverter.cs" />
     <Compile Include="AllOther\Converters\NegatingConverter.cs" />
+    <Compile Include="AllOther\Converters\SliderTipConverter.cs" />
     <Compile Include="AllOther\Converters\TrimStringConverter.cs" />
     <Compile Include="AllOther\Helpers\ParserTOKFM.cs" />
     <Page Include="View\MainWindow.xaml">
