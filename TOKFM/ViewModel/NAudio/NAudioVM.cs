@@ -35,7 +35,7 @@ namespace TOKFM.ViewModel.NAudio
                 if(wavePlayer != null)
                 {
                     wavePlayer.Volume = volume;
-                    OnPropertyChanged("Volume");
+                    OnPropertyChanged("Volume2");
                 } 
             }
         }
