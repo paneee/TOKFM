@@ -13,7 +13,7 @@
     <local:BoolToVisibleConverter x:Key="VisibleConverter" />
     <local:FloatToProcentConverter x:Key="FloatConverter" />
     <local:ActualTimeConverter x:Key="ATimeConverter" />
-    <local:AutoPlayConverter x:Key="AutoPlayConverter" />
+    <local:AutoPlayConverter x:Key="AutoPlayConverter" /> 
     <Style x:Key="SliderRepeatButton" TargetType="RepeatButton">
         <Setter Property="SnapsToDevicePixels" Value="true" />
         <Setter Property="OverridesDefaultStyle" Value="true" />
@@ -51,8 +51,6 @@
             </Setter.Value>
         </Setter>
     </Style>
-
-    <Image x:Key="Play" Source="C:\Users\Admin\Documents\Visual Studio 2015\Projects\TOKFM\TOKFM\AllOther\Image\play.png" Height="50" Width="50" />
 
     <ControlTemplate x:Key="Slider"  TargetType="Slider">
         <Grid>

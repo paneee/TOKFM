@@ -28,7 +28,11 @@ namespace TOKFM.ViewModel.NAudio
         private float volume;
         public float Volume
         {
-            get { return volume; }
+            get
+            {
+                wavePlayer.Volume = volume;
+                return volume;
+            }
             set
             {
                 volume = value;

@@ -15,6 +15,7 @@
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="pack://application:,,,/TOKFM;component/View/Resource.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/FlatSlider.xaml" />
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Window.Resources>
@@ -52,17 +53,12 @@
 
 
                         <TextBlock Grid.Row="0" Grid.Column="3" Grid.ColumnSpan="8" Text="{Binding Path=SelectedItem.Title}" Foreground="CornflowerBlue" HorizontalAlignment="Center" TextTrimming="WordEllipsis" VerticalAlignment="Center" FontSize="16" FontWeight="Bold" Height="22" />
-                        <Slider Style="{StaticResource  Horizontal_Slider}"  Grid.Row="4"  Grid.ColumnSpan="11" Maximum="100" Minimum="0" Value="{Binding StreamPlayer.SliderPosition, Mode=TwoWay}" VerticalAlignment="Center" Margin="10,1,10,1"  AutoToolTipPlacement="BottomRight"
-        AutoToolTipPrecision="2"/>
+                        <Slider Style="{StaticResource  Horizontal_Slider}"  Grid.Row="4"  Grid.ColumnSpan="11" Maximum="100" Minimum="0" Value="{Binding StreamPlayer.SliderPosition, Mode=TwoWay}" VerticalAlignment="Center" Margin="10,1,10,1"/>
 
 
                         <TextBlock Grid.Column="8" Grid.Row="2"  Grid.RowSpan="2" Grid.ColumnSpan="3" FontSize="32" FontWeight="Bold" Foreground="LightGreen" TextAlignment="Right" VerticalAlignment="Center" Margin="-10,0,10,0" Padding="0" Text="{Binding StreamPlayer.ActualTime, Converter={StaticResource ATimeConverter}}" Height="46.4" />
 
-                        <Button Content="{Binding  DirectionAutoPlay, Converter={StaticResource AutoPlayConverter}}" Grid.Row="2" Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="2" BorderBrush="SlateGray" BorderThickness="1" Command="{Binding DirectionCommand}" FontSize="16" Foreground="LightGreen" Height="4" Width="60" Padding="1">
-                            <!--<StackPanel>
-                                <Image Source="/TOKFM;component/AllOther/Image/xxx.png" Height="16.5" Width="23.5"/>
-                            </StackPanel>-->
-                        </Button>
+                        <Button Content="{Binding  DirectionAutoPlay, Converter={StaticResource AutoPlayConverter} }" Grid.Row="2" Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="2" BorderBrush="SlateGray" BorderThickness="1" Command="{Binding DirectionCommand}" FontSize="16" Foreground="LightGreen" Height="4" Width="60" Padding="1" />
 
                         <Button Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" BorderBrush="SlateGray" BorderThickness="1"  Command="{Binding StopCommand}"  Height="4" Width="30" Padding="1">
                             <StackPanel>
@@ -81,8 +77,7 @@
                                 <Image Source="/TOKFM;component/AllOther/Image/pause.png" Height="16.5" Width="23.5"/>
                             </StackPanel>
                         </Button>
-                        <Slider Style="{StaticResource  Horizontal_Slider}"   Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="7"  Maximum="1.0" Minimum="0" Value="{Binding Volume}" Margin="10,1,10,1" >
-
+                        <Slider  Style="{StaticResource  Horizontal_Slider}"  Value="{Binding Path= Volume}"   Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="7"  Maximum="1.0" Minimum="0"  Margin="10,1,10,1"  Ticks="4">
                         </Slider>
 
 
