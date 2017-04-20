@@ -49,7 +49,9 @@
                                 <ImageBrush  ImageSource="{Binding Path=SelectedItem.Image}" Stretch="UniformToFill"/>
                             </Rectangle.Fill>
                         </Rectangle>
-                        <TextBlock Grid.Row="0" Grid.Column="3" Grid.ColumnSpan="8" Text="{Binding Path=SelectedItem.Title}" Foreground="CornflowerBlue" HorizontalAlignment="Center" TextTrimming="WordEllipsis" VerticalAlignment="Center" FontSize="16" FontWeight="Bold" Height="22" />
+                        <Image ></Image>
+                        <TextBlock Grid.Row="0" Grid.Column="3" Grid.ColumnSpan="7" Text="{Binding Path=SelectedItem.Title}" Foreground="CornflowerBlue" HorizontalAlignment="Center" TextTrimming="WordEllipsis" VerticalAlignment="Center" FontSize="16" FontWeight="Bold" Height="22" />
+                        <Image Grid.Row="0" Grid.Column="10" Source="/TOKFM;component/AllOther/Image/Volume.png" Visibility="{Binding StreamPlayer.IsPlaying, Converter={StaticResource VisibleConverter} }"/>
                         <Slider Style="{StaticResource  Horizontal_Slider}"  Grid.Row="4"  Grid.ColumnSpan="11" Maximum="100" Minimum="0" Value="{Binding StreamPlayer.SliderPosition, Mode=TwoWay}" VerticalAlignment="Center" Margin="10,1,10,1"/>
 
 

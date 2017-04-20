@@ -158,6 +158,7 @@ namespace TOKFM.ViewModel.NAudio
                 timer.Stop();
                 this.actualTime = "00:00";
                 OnPropertyChanged("ActualTime");
+                OnPropertyChanged("IsPlaying");
             }
         }
 

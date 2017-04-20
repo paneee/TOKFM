@@ -1,8 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfItemRssVM xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ItemRssVM>
+    <Guid>48417</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMDE0rzMw0AchE30LE31Dc73cAmMla1ww2FwiCc8,</Url>
+    <Title>Test: Mercedes V</Title>
+    <Summary>Osobowy van z silnikiem diesla</Summary>
+    <TimePublish>2017-04-20T19:40:00+02:00</TimePublish>
+    <Duration>13:17</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/18_1440.jpg?1432826595</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48689</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMLOwrDMw0AchE30LM30LS73cAmMla1ww2XkJ5Q,,</Url>
+    <Title>Komentarze po pierwszym spotkaniu PGE Skry i ZAKSY w finale PlusLigi</Title>
+    <Summary>Komentarze po pierwszym spotkaniu PGE Skry i ZAKSY w finale PlusLigi</Summary>
+    <TimePublish>2017-04-20T19:20:00+02:00</TimePublish>
+    <Duration>13:24</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/16_1440.jpg?1488302227</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48691</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMLM0rDMw0AchE30LM31LQ73cAmMla1ww2LAJ1w,,</Url>
+    <Title>Cz. 2 debaty Usłysz Swoją Szkołę w Poznaniu. Dyskutowali: P. Suszka, A. Skiba, L. Piotrowska. R. Jocz i dr K. Błaszczyk</Title>
+    <Summary>Cz. 2 debaty Usłysz Swoją Szkołę w Poznaniu. Dyskutowali: P. Suszka, A. Skiba, L. Piotrowska. R. Jocz i dr K. Błaszczyk</Summary>
+    <TimePublish>2017-04-20T19:20:00+02:00</TimePublish>
+    <Duration>27:02</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/02/08_1440.jpg?1491218474</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48688</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMLOwqDMw0AchE30LM30LC73cAmMla1ww2VxcCeM,</Url>
+    <Title>Po co uczniom szkoła? Cz. 1 debaty Usłysz Swoją Szkołę w Poznaniu. Dyskutowali: P. Suszka, R. Jocz, L. Piotrowska, A. Skiba i dr K. Błaszczyk</Title>
+    <Summary>Debata o reformie edukacji: jakie problemy polskiej szkoły rozwiąże, a jakie stworzy?</Summary>
+    <TimePublish>2017-04-20T18:00:00+02:00</TimePublish>
+    <Duration>75:31</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/02/08_1440.jpg?1491218474</Image>
+  </ItemRssVM>
+  <ItemRssVM>
     <Guid>48676</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3qzMw0AchE30LM31zM73cAmMla1ww2UgJ3w,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMDM3qzMw0AchE30LM31zM73cAmMla1ww2QMJ3Q,,</Url>
     <Title>Uchodźca znaczy NOWAK</Title>
     <Summary>Gościem będzie Jana Shostak - studentka ASP w Warszawie, która w ramach projektu dyplomowego na Wydziale Sztuki Mediów u prof. Mirosława Bałki zajmuje się tematem znalezienia nowego słowa na uchodźcę.</Summary>
     <TimePublish>2017-04-20T17:40:00+02:00</TimePublish>
@@ -12,7 +52,7 @@
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48687</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMLMwrzMw0AchE30LM30Lc73cAmMla1ww2YQJ4w,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMLMwrzMw0AchE30LM30Lc73cAmMla1ww2T8J4Q,,</Url>
     <Title>Usłysz swoją szkołę - Poznań</Title>
     <Summary>Usłysz Swoją Szkołę: jak co tydzień, od rana, analizujemy problemy edukacyjne i wyzwania związane z nadchodzącą reformą systemu oświaty;
 
@@ -28,7 +68,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48686</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMLMwqzMw0AchE30LMyDSyy0wVrIGXDDZZwnh</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMLMwqzMw0AchE30LMyDSyy0wVrIGXDDZXCIJ3w,,</Url>
     <Title>Czy dojdzie do referendum szkolnego?</Title>
     <Summary>Czy dojdzie do referendum szkolnego?</Summary>
     <TimePublish>2017-04-20T16:40:00+02:00</TimePublish>
@@ -38,7 +78,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48675</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3rTMw0AchE30LM31zU73cAmMla1ww2SsJ3Q,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMDM3rTMw0AchE30LM31zU73cAmMla1ww2OYJ2w,,</Url>
     <Title>"Oswoić cyberprzestrzeń". Edward Lucas mówi, jak sie bronić w cyberświecie</Title>
     <Summary>"Oswoić cyberprzestrzeń". Edward Lucas mówi, jak sie bronić w cyberświecie</Summary>
     <TimePublish>2017-04-20T16:00:00+02:00</TimePublish>
@@ -48,7 +88,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48685</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMLMwrTMw0AchE30LM30LU73cAmMla1ww2UoJ3w,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMLMwrTMw0AchE30LM30LU73cAmMla1ww2QUJ3Q,,</Url>
     <Title>Ponad 10% Wrocławian to Ukraińcy. Jak im się  żyje w Polsce?</Title>
     <Summary>Ponad 10% Wrocławian to Ukraińcy. Jak im się  żyje w Polsce?</Summary>
     <TimePublish>2017-04-20T15:40:00+02:00</TimePublish>
@@ -58,7 +98,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48684</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMLMwqTMw0AchE30LM30LE73cAmMla1ww2S0J3Q,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMLMwqTMw0AchE30LM30LE73cAmMla1ww2OgJ2w,,</Url>
     <Title>Czy grozi nam rewolucja podatkowa?</Title>
     <Summary>Czy grozi nam rewolucja podatkowa?</Summary>
     <TimePublish>2017-04-20T15:20:00+02:00</TimePublish>
@@ -68,7 +108,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48683</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMLMwrjMw0AchE30LM30LY73cAmMla1ww2RAJ2w,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMLMwrjMw0AchE30LM30LY73cAmMla1ww2MsJ2Q,,</Url>
     <Title>Sędziowie wyrazili sprzeciw wobec reformy KRS</Title>
     <Summary>Sędziowie wyrazili sprzeciw wobec reformy KRS</Summary>
     <TimePublish>2017-04-20T15:00:00+02:00</TimePublish>
@@ -78,7 +118,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48673</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3rjMw0AchE30LM31zY73cAmMla1ww2PEJ2Q,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMDM3rjMw0AchE30LM31zY73cAmMla1ww2KwJ1w,,</Url>
     <Title>Ogon ryby - tułów kobiety czyli syrena herbem twym zwodnicza i późna polskość</Title>
     <Summary>W Andymaterii o dwóch ciekawych wystawach w Warszawie</Summary>
     <TimePublish>2017-04-20T14:40:00+02:00</TimePublish>
@@ -88,7 +128,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48679</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDO3rDMw0AchE30LM31zS73cAmMla1ww2Z8J5Q,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMDO3rDMw0AchE30LM31zS73cAmMla1ww2VoJ4w,,</Url>
     <Title>Wystawy: ogon ryby - tułów kobiety, czyli syrena herbem twym zwodnicza i późna polskość</Title>
     <Summary>Wystawy: ogon ryby - tułów kobiety, czyli syrena herbem twym zwodnicza i późna polskość</Summary>
     <TimePublish>2017-04-20T14:40:00+02:00</TimePublish>
@@ -98,7 +138,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48678</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDO3qDMw0AchE30LM31zC73cAmMla1ww2YIJ4w,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMDO3qDMw0AchE30LM31zC73cAmMla1ww2T0J4Q,,</Url>
     <Title>Dlaczego świat zakazał broni chemicznej? Rozmowa z dr. Jackiem Raubo</Title>
     <Summary>Dlaczego świat zakazał broni chemicznej? Rozmowa z dr. Jackiem Raubo</Summary>
     <TimePublish>2017-04-20T14:20:00+02:00</TimePublish>
@@ -108,7 +148,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48677</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3rzMw0AchE30LM31zc73cAmMla1ww2WUJ4Q,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMDM3rzMw0AchE30LM31zc73cAmMla1ww2SAJ3w,,</Url>
     <Title>O pomyśle na wielką reformę podatkową mówi poseł Adam Abramowicz</Title>
     <Summary>O pomyśle na wielką reformę podatkową mówi poseł Adam Abramowicz</Summary>
     <TimePublish>2017-04-20T14:00:00+02:00</TimePublish>
@@ -118,7 +158,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48674</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3qTMw0AchE30LM31zE73cAmMla1ww2Q4J2w,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMDM3qTMw0AchE30LM31zE73cAmMla1ww2MkJ2Q,,</Url>
     <Title>Jakich umiejętności oczekują od absolwentów szkół zawodowych i liceów pracodawcy? Mówi Bogna Frąszczak</Title>
     <Summary>Jakich umiejętności oczekują od absolwentów szkół zawodowych i liceów pracodawcy? Mówi Bogna Frąszczak</Summary>
     <TimePublish>2017-04-20T13:40:00+02:00</TimePublish>
@@ -128,7 +168,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48672</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3qjMw0AchE30LM31zI73cAmMla1ww2NQJ1w,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMDM3qjMw0AchE30LM31zI73cAmMla1ww2I8J1Q,,</Url>
     <Title>Zebrania sędziów w całym kraju. Rozmowa z Bartłomiejem Przymusińskim Ireną Kamińską </Title>
     <Summary>Zebrania sędziów w całym kraju. Rozmowa z Bartłomiejem Przymusińskim Ireną Kamińską </Summary>
     <TimePublish>2017-04-20T13:00:00+02:00</TimePublish>
@@ -138,7 +178,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48671</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3rDMw0AchE30LM31zQ73cAmMla1ww2LcJ1Q,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMDM3rDMw0AchE30LM31zQ73cAmMla1ww2HIJ0w,,</Url>
     <Title>Mały ZUS dla mikrofirm - ułatwienia dziś, pułapka w przyszłości?</Title>
     <Summary>Mały ZUS dla mikrofirm - ułatwienia dziś, pułapka w przyszłości?</Summary>
     <TimePublish>2017-04-20T12:40:00+02:00</TimePublish>
@@ -148,7 +188,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48670</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3qDMw0AchE30LM31zA73cAmMla1ww2JoJ0w,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMDM3qDMw0AchE30LM31zA73cAmMla1ww2FUJ0Q,,</Url>
     <Title>ZNP zebrało ponad 900 tys. podpisów za referendum ws. reformy edukacji. Usłysz Swoją Szkołę w Poznaniu! Z Elżbietą Walkowiak i Jackiem Leśnym rozmawiała Joanna Mąkosa</Title>
     <Summary>ZNP zebrało ponad 900 tys. podpisów za referendum ws. reformy edukacji. Usłysz Swoją Szkołę w Poznaniu! Z Elżbietą Walkowiak i Jackiem Leśnym rozmawiała Joanna Mąkosa</Summary>
     <TimePublish>2017-04-20T12:00:00+02:00</TimePublish>
@@ -158,7 +198,7 @@ Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędnic
   </ItemRssVM>
   <ItemRssVM>
     <Guid>48669</Guid>
-    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDOzrDMw0AchE30LM30zS73cAmMla1ww2YAJ4w,,</Url>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0Mjc0MbA0rTOxMDOzrDMw0AchE30LM30zS73cAmMla1ww2TsJ4Q,,</Url>
     <Title>Stan (nie)czytelnictwa w Polsce w 2016</Title>
     <Summary>Stan (nie)czytelnictwa w Polsce w 2016</Summary>
     <TimePublish>2017-04-20T11:00:00+02:00</TimePublish>

@@ -34,7 +34,7 @@ namespace TOKFM.ViewModel
 
         public VModel()
         {
-            timerRefreshPlaylist.Interval = TimeSpan.FromSeconds(10);
+            timerRefreshPlaylist.Interval = TimeSpan.FromSeconds(60);
             timerRefreshPlaylist.Tick += timerRefreshPlaylistTick;
             timerRefreshPlaylist.Start();
 
@@ -106,7 +106,6 @@ namespace TOKFM.ViewModel
             } 
         }
 
-
         #region RefreshListCommand
         [OnCommandCanExecute("RefreshListCommand")]
         public bool CanSeedList()
@@ -125,7 +124,7 @@ namespace TOKFM.ViewModel
             StreamPlayer.Stop();
             if (DirectionAutoPlay != 0)
             {
-                int index = ListItemsRss.Items.ToList().FindIndex(a => a.Url == selectedItem.Url);
+                int index = ListItemsRss.Items.ToList().FindIndex(a => a.Guid == selectedItem.Guid);
                 int nextIndex = 0;
 
                 if (DirectionAutoPlay == 1)
