@@ -26,24 +26,30 @@ namespace TOKFM.ViewModel
 
         private ItemRssVM oldSelectedItem = new ItemRssVM();
         private string path = AppDomain.CurrentDomain.BaseDirectory + "Linki.xml";
-        public bool AutoPlay { get; set; }
+
+        // timer
+        DispatcherTimer timerRefreshPlaylist = new DispatcherTimer();
+
+
 
         public VModel()
         {
+            timerRefreshPlaylist.Interval = TimeSpan.FromSeconds(10);
+            timerRefreshPlaylist.Tick += timerRefreshPlaylistTick;
+            timerRefreshPlaylist.Start();
+
             ListItemsRssTemp.GetFromRSSDone += new ListRssVM.GetFromRSSEvent(FinishedGetFromRSS);
             StreamPlayer.FinishStreamEvent += FinishStream;
 
             ListItemsRss.GetFromXML(path);
-            ListItemsRssTemp.GetFromRSS("http://audycje.tokfm.pl/rss/a7c6a5012a556b");
 
             if (ListItemsRss.Items.Count > 0)
             {
                 selectedItem = ListItemsRss.Items[0];
+                StreamPlayer.ActualTime = "00:00";
             }
-
             volume = 0.03f;
         }
-
 
         private ItemRssVM selectedItem;
         public ItemRssVM SelectedItem
@@ -89,6 +95,15 @@ namespace TOKFM.ViewModel
                     StreamPlayer.Volume = volume;
                 }
             }
+        }
+
+        void timerRefreshPlaylistTick(object sender, EventArgs e)
+        {
+            ListItemsRssTemp.GetFromRSS("http://audycje.tokfm.pl/rss/a7c6a5012a556b");
+            if (timerRefreshPlaylist.Interval.Seconds < 20)
+            {
+                timerRefreshPlaylist.Interval = TimeSpan.FromSeconds(1800);
+            } 
         }
 
 

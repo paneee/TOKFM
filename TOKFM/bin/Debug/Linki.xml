@@ -1,6 +1,212 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfItemRssVM xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ItemRssVM>
+    <Guid>48676</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3qzMw0AchE30LM31zM73cAmMla1ww2UgJ3w,,</Url>
+    <Title>Uchodźca znaczy NOWAK</Title>
+    <Summary>Gościem będzie Jana Shostak - studentka ASP w Warszawie, która w ramach projektu dyplomowego na Wydziale Sztuki Mediów u prof. Mirosława Bałki zajmuje się tematem znalezienia nowego słowa na uchodźcę.</Summary>
+    <TimePublish>2017-04-20T17:40:00+02:00</TimePublish>
+    <Duration>12:20</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/79_1440.jpg?1461678366</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48687</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMLMwrzMw0AchE30LM30Lc73cAmMla1ww2YQJ4w,,</Url>
+    <Title>Usłysz swoją szkołę - Poznań</Title>
+    <Summary>Usłysz Swoją Szkołę: jak co tydzień, od rana, analizujemy problemy edukacyjne i wyzwania związane z nadchodzącą reformą systemu oświaty;
+
+Dziś także: pogłębiające się według naszych rozmówców zjawisko - rodzice dzieci zdrowych są niechętni szkołom czy klasom integracyjnym;
+
+Powrócimy też do dzisiejszych przerw w sądowych rozprawach - przed sądami protestowano przeciwko próbom ograniczenia sędziowskiej niezależności;
+
+Na koniec będzie też o parkomatach - mówiliśmy o roli precedensu w urzędniczych decyzjach, dzisiaj będzie przypomnienie iż w Polsce precedens nie rządzi.</Summary>
+    <TimePublish>2017-04-20T17:00:00+02:00</TimePublish>
+    <Duration>23:26</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/14_1440.jpg?1475505140</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48686</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMLMwqzMw0AchE30LMyDSyy0wVrIGXDDZZwnh</Url>
+    <Title>Czy dojdzie do referendum szkolnego?</Title>
+    <Summary>Czy dojdzie do referendum szkolnego?</Summary>
+    <TimePublish>2017-04-20T16:40:00+02:00</TimePublish>
+    <Duration>13:01</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/78_1440.jpg?1439896930</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48675</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3rTMw0AchE30LM31zU73cAmMla1ww2SsJ3Q,,</Url>
+    <Title>"Oswoić cyberprzestrzeń". Edward Lucas mówi, jak sie bronić w cyberświecie</Title>
+    <Summary>"Oswoić cyberprzestrzeń". Edward Lucas mówi, jak sie bronić w cyberświecie</Summary>
+    <TimePublish>2017-04-20T16:00:00+02:00</TimePublish>
+    <Duration>17:19</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48685</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMLMwrTMw0AchE30LM30LU73cAmMla1ww2UoJ3w,,</Url>
+    <Title>Ponad 10% Wrocławian to Ukraińcy. Jak im się  żyje w Polsce?</Title>
+    <Summary>Ponad 10% Wrocławian to Ukraińcy. Jak im się  żyje w Polsce?</Summary>
+    <TimePublish>2017-04-20T15:40:00+02:00</TimePublish>
+    <Duration>11:41</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48684</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMLMwqTMw0AchE30LM30LE73cAmMla1ww2S0J3Q,,</Url>
+    <Title>Czy grozi nam rewolucja podatkowa?</Title>
+    <Summary>Czy grozi nam rewolucja podatkowa?</Summary>
+    <TimePublish>2017-04-20T15:20:00+02:00</TimePublish>
+    <Duration>12:39</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48683</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMLMwrjMw0AchE30LM30LY73cAmMla1ww2RAJ2w,,</Url>
+    <Title>Sędziowie wyrazili sprzeciw wobec reformy KRS</Title>
+    <Summary>Sędziowie wyrazili sprzeciw wobec reformy KRS</Summary>
+    <TimePublish>2017-04-20T15:00:00+02:00</TimePublish>
+    <Duration>11:20</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/20_1440.jpg?1484557075</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48673</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3rjMw0AchE30LM31zY73cAmMla1ww2PEJ2Q,,</Url>
+    <Title>Ogon ryby - tułów kobiety czyli syrena herbem twym zwodnicza i późna polskość</Title>
+    <Summary>W Andymaterii o dwóch ciekawych wystawach w Warszawie</Summary>
+    <TimePublish>2017-04-20T14:40:00+02:00</TimePublish>
+    <Duration>12:45</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/09_1440.jpg?1425551524</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48679</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDO3rDMw0AchE30LM31zS73cAmMla1ww2Z8J5Q,,</Url>
+    <Title>Wystawy: ogon ryby - tułów kobiety, czyli syrena herbem twym zwodnicza i późna polskość</Title>
+    <Summary>Wystawy: ogon ryby - tułów kobiety, czyli syrena herbem twym zwodnicza i późna polskość</Summary>
+    <TimePublish>2017-04-20T14:40:00+02:00</TimePublish>
+    <Duration>12:38</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/09_1440.jpg?1425551524</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48678</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDO3qDMw0AchE30LM31zC73cAmMla1ww2YIJ4w,,</Url>
+    <Title>Dlaczego świat zakazał broni chemicznej? Rozmowa z dr. Jackiem Raubo</Title>
+    <Summary>Dlaczego świat zakazał broni chemicznej? Rozmowa z dr. Jackiem Raubo</Summary>
+    <TimePublish>2017-04-20T14:20:00+02:00</TimePublish>
+    <Duration>11:19</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48677</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3rzMw0AchE30LM31zc73cAmMla1ww2WUJ4Q,,</Url>
+    <Title>O pomyśle na wielką reformę podatkową mówi poseł Adam Abramowicz</Title>
+    <Summary>O pomyśle na wielką reformę podatkową mówi poseł Adam Abramowicz</Summary>
+    <TimePublish>2017-04-20T14:00:00+02:00</TimePublish>
+    <Duration>11:15</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48674</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3qTMw0AchE30LM31zE73cAmMla1ww2Q4J2w,,</Url>
+    <Title>Jakich umiejętności oczekują od absolwentów szkół zawodowych i liceów pracodawcy? Mówi Bogna Frąszczak</Title>
+    <Summary>Jakich umiejętności oczekują od absolwentów szkół zawodowych i liceów pracodawcy? Mówi Bogna Frąszczak</Summary>
+    <TimePublish>2017-04-20T13:40:00+02:00</TimePublish>
+    <Duration>12:40</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/02/08_1440.jpg?1491218474</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48672</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3qjMw0AchE30LM31zI73cAmMla1ww2NQJ1w,,</Url>
+    <Title>Zebrania sędziów w całym kraju. Rozmowa z Bartłomiejem Przymusińskim Ireną Kamińską </Title>
+    <Summary>Zebrania sędziów w całym kraju. Rozmowa z Bartłomiejem Przymusińskim Ireną Kamińską </Summary>
+    <TimePublish>2017-04-20T13:00:00+02:00</TimePublish>
+    <Duration>22:55</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/01/36_1440.jpg?1470658114</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48671</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3rDMw0AchE30LM31zQ73cAmMla1ww2LcJ1Q,,</Url>
+    <Title>Mały ZUS dla mikrofirm - ułatwienia dziś, pułapka w przyszłości?</Title>
+    <Summary>Mały ZUS dla mikrofirm - ułatwienia dziś, pułapka w przyszłości?</Summary>
+    <TimePublish>2017-04-20T12:40:00+02:00</TimePublish>
+    <Duration>13:02</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/01/15_1440.jpg?1444662037</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48670</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDM3qDMw0AchE30LM31zA73cAmMla1ww2JoJ0w,,</Url>
+    <Title>ZNP zebrało ponad 900 tys. podpisów za referendum ws. reformy edukacji. Usłysz Swoją Szkołę w Poznaniu! Z Elżbietą Walkowiak i Jackiem Leśnym rozmawiała Joanna Mąkosa</Title>
+    <Summary>ZNP zebrało ponad 900 tys. podpisów za referendum ws. reformy edukacji. Usłysz Swoją Szkołę w Poznaniu! Z Elżbietą Walkowiak i Jackiem Leśnym rozmawiała Joanna Mąkosa</Summary>
+    <TimePublish>2017-04-20T12:00:00+02:00</TimePublish>
+    <Duration>22:08</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/02/08_1440.jpg?1491218474</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48669</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDOzrDMw0AchE30LM30zS73cAmMla1ww2YAJ4w,,</Url>
+    <Title>Stan (nie)czytelnictwa w Polsce w 2016</Title>
+    <Summary>Stan (nie)czytelnictwa w Polsce w 2016</Summary>
+    <TimePublish>2017-04-20T11:00:00+02:00</TimePublish>
+    <Duration>35:41</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/67_1440.jpg?1456503030</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48681</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMLMwrDMw0AchE30LM30LQ73cAmMla1ww2NYJ1w,,</Url>
+    <Title>Wypadek na drodze szybkiego ruchu</Title>
+    <Summary>W pierwszej kolejności sprawdzamy ile osób uczestniczyło w wypadku i czy są one przytomne. Te informacje będą potrzebne podczas zgłaszania zdarzenia.</Summary>
+    <TimePublish>2017-04-20T11:00:00+02:00</TimePublish>
+    <Duration>02:01</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/01/62_1440.jpg?1476099791</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48668</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDOzqDMw0AchE30LM30zC73cAmMla1ww2WMJ4Q,,</Url>
+    <Title>Matka-Spartanka zabijała syna-tchórza dachówką</Title>
+    <Summary>Matka-Spartanka zabijała syna-tchórza dachówką</Summary>
+    <TimePublish>2017-04-20T10:00:00+02:00</TimePublish>
+    <Duration>30:20</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/67_1440.jpg?1456503030</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48667</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDMzrzMw0AchE30LM30zc73cAmMla1ww2UYJ3w,,</Url>
+    <Title>Nie będzie ,,płacy plus, podatku minus''? Specjalne wydanie Magazynu EKG z Poznania</Title>
+    <Summary>Nie będzie ,,płacy plus, podatku minus''? Specjalne wydanie Magazynu EKG z Poznania</Summary>
+    <TimePublish>2017-04-20T09:00:00+02:00</TimePublish>
+    <Duration>40:13</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/00/02_1440.jpg?1484557092</Image>
+  </ItemRssVM>
+  <ItemRssVM>
+    <Guid>48666</Guid>
+    <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjewNLQ0qjOxMDMzqzMw0AchE30LM30zM73cAmMla1ww2SkJ3Q,,</Url>
+    <Title>Komentatorki: Agnieszka Wiśniewska, Eliza Olczyk i Renata Kim</Title>
+    <Summary>Komentatorki: Agnieszka Wiśniewska, Eliza Olczyk i Renata Kim</Summary>
+    <TimePublish>2017-04-20T08:00:00+02:00</TimePublish>
+    <Duration>33:41</Duration>
+    <ActualTime>00:00</ActualTime>
+    <Image>http://static.fm.tuba.pl/series/_img/00/00/00/01/89_1440.jpg?1484060232</Image>
+  </ItemRssVM>
+  <ItemRssVM>
     <Guid>48658</Guid>
     <Url>http://audycje.tokfm.pl/sound/eNortjI2tVIyNLE0MjMxMjawrDOxMDO1qDMw0AchE30LM31TC73cAmMla1ww2MUJ2w,,</Url>
     <Title>Erika Fatland o swojej książce "Sowietstany" (powtórka)</Title>
